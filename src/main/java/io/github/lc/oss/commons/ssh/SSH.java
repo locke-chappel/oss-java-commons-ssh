@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.ssh;
+package io.github.lc.oss.commons.ssh;
 
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

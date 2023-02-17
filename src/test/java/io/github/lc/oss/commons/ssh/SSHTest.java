@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.ssh;
+package io.github.lc.oss.commons.ssh;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -9,12 +9,13 @@ import org.mockito.Mockito;
 import org.mockito.invocation.InvocationOnMock;
 import org.mockito.stubbing.Answer;
 
-import com.github.lc.oss.commons.testing.AbstractMockTest;
 import com.jcraft.jsch.Channel;
 import com.jcraft.jsch.ChannelSftp;
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.JSchException;
 import com.jcraft.jsch.Session;
+
+import io.github.lc.oss.commons.testing.AbstractMockTest;
 
 public class SSHTest extends AbstractMockTest {
     private static class TestClass extends SSH {
