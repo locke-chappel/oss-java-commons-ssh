@@ -12,7 +12,7 @@
     <version>1.0.10</version>
     <name>${project.artifactId}</name>
     <description>Java based Secure Shell functionality</description>
-    <url>https://github.com/locke-chappel/oss-commons-ssh</url>
+    <url>https://github.com/locke-chappel/oss-java-commons-ssh</url>
 
     <licenses>
         <license>
