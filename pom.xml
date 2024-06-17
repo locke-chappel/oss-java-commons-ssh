@@ -5,11 +5,11 @@
     <parent>
         <groupId>io.github.locke-chappel.oss.commons</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.12</version>
+        <version>1.0.13</version>
     </parent>
 
     <artifactId>ssh</artifactId>
-    <version>1.0.12</version>
+    <version>1.0.13</version>
     <name>${project.artifactId}</name>
     <description>Java based Secure Shell functionality</description>
     <url>https://github.com/locke-chappel/oss-java-commons-ssh</url>
